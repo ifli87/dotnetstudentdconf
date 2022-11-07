@@ -1,1 +1,3 @@
 *********Welcome*********
+
+dotnet new blazorwasm -o ResumeApp
